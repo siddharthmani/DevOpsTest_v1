@@ -4,5 +4,6 @@ public class newClassToDeploy{
     public String testStr;
     public newClassToDeploy(){
         testStr='abc';
+        String testStringnew = 'def';//creating for testing deployment - added as part of user story 1
     }
 }
